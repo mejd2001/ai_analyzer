@@ -13,3 +13,4 @@ transformers
 streamlit
 reportlab
 facebook-business
+plotly
