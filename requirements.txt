@@ -7,7 +7,5 @@ plotly
 prophet
 openpyxl
 facebook_business
-transformers
-torch
 bcrypt
 pyyaml
