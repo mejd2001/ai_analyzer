@@ -1,0 +1,15 @@
+bcrypt
+streamlit-authenticator
+prophet
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+openpyxl
+xgboost
+statsmodels
+transformers
+streamlit
+reportlab
+facebook-business

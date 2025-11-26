@@ -1,0 +1,102 @@
+Date,Product,Category,Quantity,Price,Revenue,Customer_Gender,Age_Group
+2024-01-01,Chemise Blanche,Limited Edition,13,103.8,1349.4,Male,25-34
+2024-01-01,Chaussures Derby Noir,Beauté,21,132.7,2786.7,Male,45-54
+2024-01-01,Jupe Plissée Beige,Limited Edition,39,297.4,11598.6,Male,18-24
+2024-01-02,Jupe Plissée Beige,Accessoires,39,103.2,4024.8,Female,35-44
+2024-01-02,"T-shirt ""Tounes Bel3arbi""",Limited Edition,49,269.9,13225.1,Female,25-34
+2024-01-02,Parfum Oriental 100ml,Limited Edition,35,23.4,819.0,Female,18-24
+2024-01-03,Sac à Main Luxe,Limited Edition,32,115.3,3689.6,Unknown,18-24
+2024-01-04,Chaussures Derby Noir,Beauté,43,37.3,1603.9,Female,25-34
+2024-01-05,Portefeuille Cuir,Beauté,46,191.0,8786.0,Female,25-34
+2024-01-05,Écharpe Laine Rouge,Femme,11,231.2,2543.2,Unknown,18-24
+2024-01-05,Montre Connectée Sport,Homme,23,186.6,4291.8,Female,45-54
+2024-01-05,Lunettes de Soleil,Beauté,10,291.6,2916.0,Female,35-44
+2024-01-05,Bracelet Argent 925,Beauté,11,244.7,2691.7,Female,45-54
+2024-01-06,Parfum Oriental 100ml,Accessoires,47,281.9,13249.3,Male,25-34
+2024-01-07,Sac à Dos Noir,Femme,7,77.2,540.4,Male,18-24
+2024-01-08,Huile d'Argan Pure,Limited Edition,38,31.2,1185.6,Male,45-54
+2024-01-08,Huile d'Argan Pure,Accessoires,18,289.1,5203.8,Female,35-44
+2024-01-09,Huile d'Argan Pure,Homme,1,28.7,28.7,Unknown,25-34
+2024-01-09,Boucles d'Oreilles Or,Beauté,23,290.2,6674.6,Unknown,35-44
+2024-01-10,Ensemble Pyjama Satin,Limited Edition,13,140.4,1825.2,Female,18-24
+2024-01-10,Parfum Oriental 100ml,Beauté,44,75.1,3304.4,Female,45-54
+2024-01-12,Crème Visage Bio,Femme,8,25.4,203.2,Female,18-24
+2024-01-12,Chaussures Derby Noir,Limited Edition,46,141.4,6504.4,Unknown,45-54
+2024-01-13,Écharpe Laine Rouge,Beauté,30,168.8,5064.0,Male,18-24
+2024-01-14,Sac à Main Luxe,Limited Edition,6,30.9,185.4,Male,25-34
+2024-01-15,Ensemble Pyjama Satin,Homme,20,218.6,4372.0,Female,45-54
+2024-01-15,Sac à Dos Noir,Limited Edition,16,34.1,545.6,Male,18-24
+2024-01-15,Jupe Plissée Beige,Femme,47,265.2,12464.4,Male,18-24
+2024-01-16,Bracelet Argent 925,Limited Edition,21,113.4,2381.4,Male,25-34
+2024-01-17,Portefeuille Cuir,Femme,21,245.4,5153.4,Unknown,25-34
+2024-01-18,Ensemble Pyjama Satin,Beauté,41,201.8,8273.8,Unknown,35-44
+2024-01-19,Lunettes de Soleil,Beauté,5,152.7,763.5,Unknown,45-54
+2024-01-20,Robe Été Rouge,Accessoires,35,50.9,1781.5,Unknown,18-24
+2024-01-21,Robe Été Rouge,Beauté,9,87.3,785.7,Female,18-24
+2024-01-21,Huile d'Argan Pure,Femme,23,89.3,2053.9,Unknown,35-44
+2024-01-22,Chemise Blanche,Accessoires,20,191.7,3834.0,Female,25-34
+2024-01-22,Ensemble Pyjama Satin,Beauté,20,100.9,2018.0,Unknown,35-44
+2024-01-23,Huile d'Argan Pure,Beauté,36,196.0,7056.0,Female,18-24
+2024-01-23,Bracelet Argent 925,Accessoires,33,66.9,2207.7,Male,45-54
+2024-01-25,Jupe Plissée Beige,Limited Edition,2,96.1,192.2,Male,18-24
+2024-01-25,Chemise Blanche,Femme,8,126.3,1010.4,Male,18-24
+2024-01-26,Sac à Dos Noir,Beauté,46,151.9,6987.4,Male,45-54
+2024-01-26,T-shirt Bleu Marine,Beauté,36,156.1,5619.6,Male,45-54
+2024-01-27,Sneakers Blanches,Beauté,30,23.8,714.0,Male,35-44
+2024-01-28,Portefeuille Cuir,Femme,13,255.0,3315.0,Female,18-24
+2024-01-28,Ensemble Pyjama Satin,Accessoires,12,156.4,1876.8,Female,35-44
+2024-01-28,Pull Cachemire Gris,Femme,19,246.0,4674.0,Female,25-34
+2024-01-28,"T-shirt ""Tounes Bel3arbi""",Femme,28,82.8,2318.4,Male,35-44
+2024-01-29,Boucles d'Oreilles Or,Femme,9,251.1,2259.9,Female,18-24
+2024-02-02,"T-shirt ""Tounes Bel3arbi""",Limited Edition,18,92.4,1663.2,Male,18-24
+2024-02-02,Bracelet Argent 925,Homme,41,257.6,10561.6,Unknown,25-34
+2024-02-03,Robe Été Rouge,Accessoires,28,38.5,1078.0,Male,45-54
+2024-02-03,Pull Cachemire Gris,Homme,17,37.5,637.5,Male,18-24
+2024-02-04,Sac à Main Luxe,Femme,35,232.5,8137.5,Female,18-24
+2024-02-04,Boucles d'Oreilles Or,Beauté,26,118.1,3070.6,Female,18-24
+2024-02-05,Jupe Plissée Beige,Femme,8,123.4,987.2,Female,45-54
+2024-02-05,Crème Visage Bio,Homme,18,248.0,4464.0,Male,45-54
+2024-02-06,Parfum Oriental 100ml,Homme,9,67.6,608.4,Female,45-54
+2024-02-06,Huile d'Argan Pure,Femme,27,94.9,2562.3,Unknown,18-24
+2024-02-06,Sac à Main Luxe,Beauté,43,39.2,1685.6,Female,35-44
+2024-02-07,Robe Été Rouge,Homme,27,87.8,2370.6,Female,25-34
+2024-02-08,"T-shirt ""Tounes Bel3arbi""",Femme,35,73.5,2572.5,Male,35-44
+2024-02-08,Robe Été Rouge,Accessoires,7,65.0,455.0,Unknown,45-54
+2024-02-08,Bracelet Argent 925,Limited Edition,17,24.0,408.0,Female,45-54
+2024-02-08,Parfum Oriental 100ml,Limited Edition,1,92.9,92.9,Female,35-44
+2024-02-09,Chaussures Derby Noir,Accessoires,13,144.0,1872.0,Male,45-54
+2024-02-10,Écharpe Laine Rouge,Beauté,26,119.4,3104.4,Unknown,45-54
+2024-02-10,T-shirt Bleu Marine,Femme,4,290.7,1162.8,Female,25-34
+2024-02-10,Ceinture Cuir Noir,Homme,9,203.3,1829.7,Female,35-44
+2024-02-11,Chemise Blanche,Beauté,26,186.7,4854.2,Male,25-34
+2024-02-11,"T-shirt ""Tounes Bel3arbi""",Limited Edition,29,179.0,5191.0,Male,45-54
+2024-02-12,Pull Cachemire Gris,Beauté,8,286.4,2291.2,Unknown,45-54
+2024-02-12,Robe Été Rouge,Limited Edition,5,201.5,1007.5,Male,18-24
+2024-02-15,Ensemble Pyjama Satin,Femme,17,208.4,3542.8,Female,18-24
+2024-02-15,Robe Été Rouge,Femme,24,192.7,4624.8,Unknown,35-44
+2024-02-16,Lunettes de Soleil,Beauté,25,93.7,2342.5,Unknown,25-34
+2024-02-16,Bracelet Argent 925,Homme,20,215.2,4304.0,Male,45-54
+2024-02-16,Crème Visage Bio,Femme,6,214.3,1285.8,Female,35-44
+2024-02-16,Crème Visage Bio,Femme,21,60.0,1260.0,Female,18-24
+2024-02-17,Portefeuille Cuir,Beauté,46,138.3,6361.8,Female,35-44
+2024-02-17,Portefeuille Cuir,Limited Edition,29,148.3,4300.7,Male,35-44
+2024-02-18,Sac à Main Luxe,Femme,26,286.4,7446.4,Male,25-34
+2024-02-20,T-shirt Bleu Marine,Beauté,37,85.1,3148.7,Unknown,18-24
+2024-02-20,Lunettes de Soleil,Limited Edition,5,241.0,1205.0,Unknown,35-44
+2024-02-20,Boucles d'Oreilles Or,Beauté,13,100.0,1300.0,Unknown,35-44
+2024-02-22,Jupe Plissée Beige,Accessoires,28,247.0,6916.0,Unknown,18-24
+2024-02-22,Huile d'Argan Pure,Beauté,49,225.2,11034.8,Female,45-54
+2024-02-22,Parfum Oriental 100ml,Femme,45,147.1,6619.5,Male,18-24
+2024-02-22,Sac à Dos Noir,Femme,4,260.5,1042.0,Female,35-44
+2024-02-23,Sac à Main Luxe,Limited Edition,24,74.3,1783.2,Unknown,18-24
+2024-02-23,Parfum Oriental 100ml,Femme,18,262.5,4725.0,Unknown,35-44
+2024-02-23,Parfum Oriental 100ml,Homme,42,58.4,2452.8,Female,35-44
+2024-02-25,Pull Cachemire Gris,Femme,17,195.7,3326.9,Unknown,25-34
+2024-02-25,Ceinture Cuir Noir,Femme,17,150.6,2560.2,Female,18-24
+2024-02-27,Sac à Main Luxe,Limited Edition,41,79.3,3251.3,Male,35-44
+2024-02-27,Sneakers Blanches,Homme,4,66.4,265.6,Female,35-44
+2024-02-27,Robe Été Rouge,Homme,17,190.2,3233.4,Female,18-24
+2024-02-27,Crème Visage Bio,Homme,26,177.8,4622.8,Unknown,35-44
+2024-02-28,Boucles d'Oreilles Or,Accessoires,3,32.6,97.8,Female,45-54
+2024-03-01,Portefeuille Cuir,Beauté,43,71.2,3061.6,Female,35-44
+2024-03-02,Jupe Plissée Beige,Femme
